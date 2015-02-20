@@ -1,8 +1,3 @@
-//Ellie Kang
-//Section B03
-//GTID: 903079262
-//elliekang@gatech.edu
-//"I worked on this lab assignment alone, using only this semester's course materials."
 
 //F5 render option gives colors to the design that is not shown through F6 render option. 
 
